@@ -1,1 +1,17 @@
-site_name: My Docs
+site_name: Jacob Lapp's Data Science Portfolio
+site_url: https://jslapp3.github.io/
+site_author: Jacob Lapp
+site_description: >-
+  I am Jacob Lapp, a current Master of Data Science student at Rice University,
+  and you are here on my data science portfolio.
+
+# repo stuff
+repo_name: jslapp3/jslapp3.github.io
+repo_url: https://github.com/jslapp3/jslapp3.github.io.git
+
+theme:
+  name: material
+
+# Page tree: refer to mkdocs documentation
+nav:
+- Home: index.md
